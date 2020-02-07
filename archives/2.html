@@ -26,11 +26,11 @@
     exturl: false,
     sidebar: {"position":"left","display":"post","padding":18,"offset":12,"onmobile":false},
     copycode: {"enable":false,"show_result":false,"style":null},
-    back2top: {"enable":true,"sidebar":false,"scrollpercent":false},
+    back2top: {"enable":true,"sidebar":false,"scrollpercent":true},
     bookmark: {"enable":false,"color":"#222","save":"auto"},
     fancybox: false,
     mediumzoom: false,
-    lazyload: false,
+    lazyload: true,
     pangu: false,
     comments: {"style":"tabs","active":null,"storage":true,"lazyload":false,"nav":null},
     algolia: {
@@ -42,7 +42,7 @@
     },
     localsearch: {"enable":true,"trigger":"auto","top_n_per_article":1,"unescape":false,"preload":false},
     path: './search.xml',
-    motion: {"enable":true,"async":false,"transition":{"post_block":"fadeIn","post_header":"slideDownIn","post_body":"slideDownIn","coll_header":"slideLeftIn","sidebar":"slideUpIn"}}
+    motion: {"enable":false,"async":true,"transition":{"post_block":"fadeIn","post_header":"slideDownIn","post_body":"slideDownIn","coll_header":"slideLeftIn","sidebar":"slideUpIn"}}
   };
 </script>
 
@@ -110,7 +110,7 @@
 </head>
 
 <body itemscope itemtype="http://schema.org/WebPage">
-  <div class="container use-motion">
+  <div class="container">
     <div class="headband"></div>
 
     <header class="header" itemscope itemtype="http://schema.org/WPHeader">
@@ -231,6 +231,8 @@
         </h2>
 
         <div class="post-meta">
+
+          
             <span class="post-meta-item">
               <span class="post-meta-item-icon">
                 <i class="fa fa-calendar-o"></i>
@@ -259,7 +261,7 @@
 
       
         <p>2020年春节前夕，为进一步做好社区矫正人员春节放假期间安全稳定工作，1月21日上午，富山司法所开展了一次社区矫正人员集中报到活动。活动中对富山乡辖区内的社区矫正人员春节期间需要注意的事项提出要求。</p>
-<p><img src="https://www.wanjunhua.com/img/2-1.jpg" alt="富山司法所开展2020年春节期间安全教育暨扫黑除恶警示教育活动"></p>
+<p><img data-src="https://www.wanjunhua.com/img/2-1.jpg" alt="富山司法所开展2020年春节期间安全教育暨扫黑除恶警示教育活动"></p>
 <p>活动中司法所工作人员讲解和告知社区矫正人员春节期间要遵守法律法规，在家学习新出台的社区矫正法相关规定，不与涉黑人员来往，做个遵纪守法的好公民。</p>
 <p>富山司法所将严格请假审批手续，优化春节期间信息沟通渠道，春节期间将通过个别走访，电话抽查，微信群聊发定位、报平安等多种形式，使大家度过一个欢乐祥和、幸福美满的春节，维护社会的和谐稳定。</p>
 <div align="right">富山司法所 万俊华</div>
@@ -464,12 +466,9 @@
 
   
   <script src="/lib/anime.min.js"></script>
-  <script src="/lib/velocity/velocity.min.js"></script>
-  <script src="/lib/velocity/velocity.ui.min.js"></script>
+  <script src="//cdn.jsdelivr.net/npm/lozad@1/dist/lozad.min.js"></script>
 
 <script src="/js/utils.js"></script>
-
-<script src="/js/motion.js"></script>
 
 
 <script src="/js/schemes/pisces.js"></script>
