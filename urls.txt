@@ -1,3 +1,4 @@
+https://www.wanjunhua.com/archives/14.html
 https://www.wanjunhua.com/archives/13.html
 https://www.wanjunhua.com/archives/12.html
 https://www.wanjunhua.com/archives/11.html
@@ -23,6 +24,7 @@ https://www.wanjunhua.com/js/utils.js
 https://www.wanjunhua.com/page/3/index.html
 https://www.wanjunhua.com/page/2/index.html
 https://www.wanjunhua.com/sitemap.xml
+https://www.wanjunhua.com/tags/工作群文件/index.html
 https://www.wanjunhua.com/tags/团队建设/index.html
 https://www.wanjunhua.com/tags/疫情防控知识点/index.html
 https://www.wanjunhua.com/tags/index.html
