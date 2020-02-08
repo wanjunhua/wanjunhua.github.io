@@ -1,3 +1,6 @@
+https://www.wanjunhua.com/archives/19.html
+https://www.wanjunhua.com/archives/18.html
+https://www.wanjunhua.com/archives/17.html
 https://www.wanjunhua.com/archives/16.html
 https://www.wanjunhua.com/archives/15.html
 https://www.wanjunhua.com/archives/14.html
@@ -20,6 +23,7 @@ https://www.wanjunhua.com/archives/page/2/index.html
 https://www.wanjunhua.com/archives/2020/01/index.html
 https://www.wanjunhua.com/archives/2020/index.html
 https://www.wanjunhua.com/archives/2020/02/index.html
+https://www.wanjunhua.com/archives/2020/02/page/2/index.html
 https://www.wanjunhua.com/archives/2020/page/2/index.html
 https://www.wanjunhua.com/index.html
 https://www.wanjunhua.com/js/utils.js
