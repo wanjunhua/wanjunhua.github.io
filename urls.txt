@@ -1,3 +1,4 @@
+https://www.wanjunhua.com/archives/ncp-2-10.html
 https://www.wanjunhua.com/archives/22.html
 https://www.wanjunhua.com/archives/ncp-2-9.html
 https://www.wanjunhua.com/archives/21.html
@@ -85,6 +86,7 @@ https://www.wanjunhua.com/sitemap.xml
 https://www.wanjunhua.com/tags/工作群文件/index.html
 https://www.wanjunhua.com/tags/新冠肺炎疫情/index.html
 https://www.wanjunhua.com/tags/新冠肺炎疫情/page/3/index.html
+https://www.wanjunhua.com/tags/新冠肺炎疫情/page/4/index.html
 https://www.wanjunhua.com/tags/新冠肺炎疫情/page/2/index.html
 https://www.wanjunhua.com/tags/团队建设/index.html
 https://www.wanjunhua.com/tags/疫情防控知识点/index.html
