@@ -1,3 +1,0 @@
-# robots.txt generated at http://tool.chinaz.com/robots/ 
-Sitemap: https://www.wanjunhua.com/sitemap.xml
-Sitemap: https://www.wanjunhua.com/baidusitemap.xml
