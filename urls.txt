@@ -1,3 +1,4 @@
+https://www.wanjunhua.com/archives/24.html
 https://www.wanjunhua.com/archives/ncp-2-11.html
 https://www.wanjunhua.com/archives/23.html
 https://www.wanjunhua.com/archives/ncp-2-10.html
@@ -77,6 +78,7 @@ https://www.wanjunhua.com/js/utils.js
 https://www.wanjunhua.com/page/3/index.html
 https://www.wanjunhua.com/page/9/index.html
 https://www.wanjunhua.com/page/6/index.html
+https://www.wanjunhua.com/page/12/index.html
 https://www.wanjunhua.com/page/4/index.html
 https://www.wanjunhua.com/page/5/index.html
 https://www.wanjunhua.com/page/10/index.html
@@ -95,6 +97,7 @@ https://www.wanjunhua.com/tags/疫情防控知识点/index.html
 https://www.wanjunhua.com/tags/index.html
 https://www.wanjunhua.com/tags/富山司法所/index.html
 https://www.wanjunhua.com/tags/新型冠状病毒感染的肺炎/index.html
+https://www.wanjunhua.com/tags/新型冠状病毒感染的肺炎/page/2/index.html
 https://www.wanjunhua.com/tags/重要会议/index.html
 https://www.wanjunhua.com/tags/不闹书荒/index.html
 https://www.wanjunhua.com/tags/万俊华/index.html
