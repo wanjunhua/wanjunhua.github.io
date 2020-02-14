@@ -1,3 +1,4 @@
+https://www.wanjunhua.com/archives/28.html
 https://www.wanjunhua.com/archives/27.html
 https://www.wanjunhua.com/archives/26.html
 https://www.wanjunhua.com/archives/25.html
@@ -64,6 +65,7 @@ https://www.wanjunhua.com/archives/page/3/index.html
 https://www.wanjunhua.com/archives/page/6/index.html
 https://www.wanjunhua.com/archives/page/4/index.html
 https://www.wanjunhua.com/archives/page/5/index.html
+https://www.wanjunhua.com/archives/page/7/index.html
 https://www.wanjunhua.com/archives/page/2/index.html
 https://www.wanjunhua.com/archives/2020/01/index.html
 https://www.wanjunhua.com/archives/2020/01/page/3/index.html
@@ -77,6 +79,7 @@ https://www.wanjunhua.com/archives/2020/page/3/index.html
 https://www.wanjunhua.com/archives/2020/page/6/index.html
 https://www.wanjunhua.com/archives/2020/page/4/index.html
 https://www.wanjunhua.com/archives/2020/page/5/index.html
+https://www.wanjunhua.com/archives/2020/page/7/index.html
 https://www.wanjunhua.com/archives/2020/page/2/index.html
 https://www.wanjunhua.com/index.html
 https://www.wanjunhua.com/js/utils.js
@@ -84,6 +87,7 @@ https://www.wanjunhua.com/page/3/index.html
 https://www.wanjunhua.com/page/9/index.html
 https://www.wanjunhua.com/page/6/index.html
 https://www.wanjunhua.com/page/12/index.html
+https://www.wanjunhua.com/page/13/index.html
 https://www.wanjunhua.com/page/4/index.html
 https://www.wanjunhua.com/page/5/index.html
 https://www.wanjunhua.com/page/10/index.html
@@ -100,6 +104,7 @@ https://www.wanjunhua.com/tags/新冠肺炎疫情/page/2/index.html
 https://www.wanjunhua.com/tags/团队建设/index.html
 https://www.wanjunhua.com/tags/疫情防控知识点/index.html
 https://www.wanjunhua.com/tags/index.html
+https://www.wanjunhua.com/tags/慈善机构/index.html
 https://www.wanjunhua.com/tags/富山司法所/index.html
 https://www.wanjunhua.com/tags/新型冠状病毒感染的肺炎/index.html
 https://www.wanjunhua.com/tags/新型冠状病毒感染的肺炎/page/2/index.html
