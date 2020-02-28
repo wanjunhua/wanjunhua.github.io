@@ -32,7 +32,7 @@
     mediumzoom: false,
     lazyload: true,
     pangu: false,
-    comments: {"style":"tabs","active":null,"storage":true,"lazyload":false,"nav":null},
+    comments: {"style":"tabs","active":"valine","storage":true,"lazyload":false,"nav":null,"activeClass":"valine"},
     algolia: {
       appID: '',
       apiKey: '',
@@ -247,6 +247,20 @@
               </span>
 
           
+  
+  <span class="post-meta-item">
+    
+      <span class="post-meta-item-icon">
+        <i class="fa fa-comment-o"></i>
+      </span>
+      <span class="post-meta-item-text">Valine：</span>
+    
+    <a title="valine" href="/archives/ncp-2-7.html#comments" itemprop="discussionUrl">
+      <span class="post-comments-count valine-comment-count" data-xid="/archives/ncp-2-7.html" itemprop="commentCount"></span>
+    </a>
+  </span>
+  
+  
 
         </div>
       </header>
@@ -351,6 +365,7 @@
 
           </div>
           
+    <div class="comments" id="valine-comments"></div>
 
 <script>
   window.addEventListener('tabs:register', () => {
@@ -452,6 +467,9 @@
         </li>
         <li class="links-of-blogroll-item">
           <a href="https://ipwa.cn/" title="https:&#x2F;&#x2F;ipwa.cn&#x2F;" rel="noopener" target="_blank">爱皮哇</a>
+        </li>
+        <li class="links-of-blogroll-item">
+          <a href="https://liujianjun.net/" title="https:&#x2F;&#x2F;liujianjun.net&#x2F;" rel="noopener" target="_blank">陆简隽博客</a>
         </li>
     </ul>
   </div>
@@ -576,6 +594,35 @@ document.write('<script src="' + src + '" id="sozz"><\/script>');
   
 
   
+
+
+<script>
+NexT.utils.loadComments(document.querySelector('#valine-comments'), () => {
+  NexT.utils.getScript('//cdn.jsdelivr.net/npm/valine/dist/Valine.min.js', () => {
+    var GUEST = ['nick', 'mail', 'link'];
+    var guest = 'nick,mail,link';
+    guest = guest.split(',').filter(item => {
+      return GUEST.includes(item);
+    });
+    new Valine({
+      el: '#valine-comments',
+      verify: false,
+      notify: false,
+      appId: 'WISjdo7mIGC3jpNtcp2ehpgg-gzGzoHsz',
+      appKey: '20w7Ie6gSUilh400MI4N1WJt',
+      placeholder: "ヾﾉ≧∀≦)o 来呀！吐槽一番吧！",
+      avatar: 'mm',
+      meta: guest,
+      pageSize: '10' || 10,
+      visitor: false,
+      lang: '' || 'zh-cn',
+      path: location.pathname,
+      recordIP: false,
+      serverURLs: ''
+    });
+  }, window.Valine);
+});
+</script>
 
 </body>
 </html>
