@@ -1,3 +1,4 @@
+https://www.wanjunhua.com/archives/ncp-3-4.html
 https://www.wanjunhua.com/archives/ncp-3-3.html
 https://www.wanjunhua.com/archives/ncp-3-2.html
 https://www.wanjunhua.com/archives/ncp-3-1.html
@@ -97,7 +98,6 @@ https://www.wanjunhua.com/archives/ncp-1-13.html
 https://www.wanjunhua.com/archives/ncp-1-12.html
 https://www.wanjunhua.com/archives/ncp-1-11.html
 https://www.wanjunhua.com/archives/ncp-1-10.html
-https://www.wanjunhua.com/archives/1.html
 https://www.wanjunhua.com/about/index.html
 https://www.wanjunhua.com/archives/index.html
 https://www.wanjunhua.com/archives/page/3/index.html
@@ -106,6 +106,7 @@ https://www.wanjunhua.com/archives/page/6/index.html
 https://www.wanjunhua.com/archives/page/4/index.html
 https://www.wanjunhua.com/archives/page/5/index.html
 https://www.wanjunhua.com/archives/page/10/index.html
+https://www.wanjunhua.com/archives/page/11/index.html
 https://www.wanjunhua.com/archives/page/8/index.html
 https://www.wanjunhua.com/archives/page/7/index.html
 https://www.wanjunhua.com/archives/page/2/index.html
@@ -127,6 +128,7 @@ https://www.wanjunhua.com/archives/2020/page/6/index.html
 https://www.wanjunhua.com/archives/2020/page/4/index.html
 https://www.wanjunhua.com/archives/2020/page/5/index.html
 https://www.wanjunhua.com/archives/2020/page/10/index.html
+https://www.wanjunhua.com/archives/2020/page/11/index.html
 https://www.wanjunhua.com/archives/2020/page/8/index.html
 https://www.wanjunhua.com/archives/2020/page/7/index.html
 https://www.wanjunhua.com/archives/2020/page/2/index.html
@@ -141,6 +143,7 @@ https://www.wanjunhua.com/page/6/index.html
 https://www.wanjunhua.com/page/12/index.html
 https://www.wanjunhua.com/page/13/index.html
 https://www.wanjunhua.com/page/4/index.html
+https://www.wanjunhua.com/page/21/index.html
 https://www.wanjunhua.com/page/5/index.html
 https://www.wanjunhua.com/page/10/index.html
 https://www.wanjunhua.com/page/11/index.html
