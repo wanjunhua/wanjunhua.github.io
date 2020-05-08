@@ -32,7 +32,7 @@
     mediumzoom: false,
     lazyload: true,
     pangu: false,
-    comments: {"style":"tabs","active":"valine","storage":true,"lazyload":false,"nav":null,"activeClass":"valine"},
+    comments: {"style":"tabs","active":"valine","storage":true,"lazyload":false,"nav":null},
     algolia: {
       appID: '',
       apiKey: '',
@@ -238,7 +238,7 @@
     <div class="posts-collapse">
       <div class="collection-title">
         
-        <span class="collection-header">非常好! 目前共计 150 篇日志。 继续努力。</span>
+        <span class="collection-header">非常好! 目前共计 151 篇日志。 继续努力。</span>
       </div>
 
       
@@ -523,14 +523,14 @@
       <div class="site-state-item site-state-posts">
           <a href="/archives/">
         
-          <span class="site-state-item-count">150</span>
+          <span class="site-state-item-count">151</span>
           <span class="site-state-item-name">日志</span>
         </a>
       </div>
       <div class="site-state-item site-state-tags">
             <a href="/tags/">
           
-        <span class="site-state-item-count">48</span>
+        <span class="site-state-item-count">49</span>
         <span class="site-state-item-name">标签</span></a>
       </div>
   </nav>
@@ -696,35 +696,6 @@ document.write('<script src="' + src + '" id="sozz"><\/script>');
   
 
   
-
-
-<script>
-NexT.utils.loadComments(document.querySelector('#valine-comments'), () => {
-  NexT.utils.getScript('//cdn.jsdelivr.net/npm/valine/dist/Valine.min.js', () => {
-    var GUEST = ['nick', 'mail', 'link'];
-    var guest = 'nick,mail,link';
-    guest = guest.split(',').filter(item => {
-      return GUEST.includes(item);
-    });
-    new Valine({
-      el: '#valine-comments',
-      verify: false,
-      notify: false,
-      appId: 'WISjdo7mIGC3jpNtcp2ehpgg-gzGzoHsz',
-      appKey: '20w7Ie6gSUilh400MI4N1WJt',
-      placeholder: "ヾﾉ≧∀≦)o 来呀！吐槽一番吧！",
-      avatar: 'mm',
-      meta: guest,
-      pageSize: '10' || 10,
-      visitor: false,
-      lang: '' || 'zh-cn',
-      path: location.pathname,
-      recordIP: false,
-      serverURLs: ''
-    });
-  }, window.Valine);
-});
-</script>
 
 </body>
 </html>
